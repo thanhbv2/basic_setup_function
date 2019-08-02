@@ -1,3 +1,4 @@
+//// so hoan hao
 function is_perfect(number)
 {
 let temp = 0;
