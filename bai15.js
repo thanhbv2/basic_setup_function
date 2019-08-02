@@ -1,6 +1,11 @@
-/// tim so mu~
-function soMu(a){
- 
+/// tim so mu
+function exp(b,n)
+{
+        var ans = 1;
+        for (var i =1; i <= n; i++)
+        {
+                ans = b * ans;        
+        }
+        return ans;
 }
-
-console.log(soMu(2))
+console.log(exp(2, 3));
