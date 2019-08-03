@@ -20,3 +20,8 @@ let temp = 0;
         }   
  } 
 console.log(is_perfect(28)); 
+
+/**
+ * Format code 
+ * Tư tưởng tạm ổn không biết có hiểu tại sao mà chỉ lấy number / 2 không ?
+ */

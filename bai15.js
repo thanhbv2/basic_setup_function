@@ -9,3 +9,9 @@ function exp(b,n)
         return ans;
 }
 console.log(exp(2, 3));
+
+/**
+ * Làm xong có hiểu bài toán k ?
+ * đọc tiếng anh có hiểu gì k ?
+ * trả lời ở phía dưới
+ */
