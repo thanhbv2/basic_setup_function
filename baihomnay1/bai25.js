@@ -9,6 +9,7 @@ function Longest_Country_Name(country_name) {
         return country
     },
     //// return lname.length > country.length ? lname : country; code cũ e sửa theo ý hiểu
+    //
     );
 
 }
