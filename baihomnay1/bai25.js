@@ -14,3 +14,8 @@ function Longest_Country_Name(country_name) {
 
 }
 console.log(Longest_Country_Name(["Australia", "Germany", "United States of America"]));
+
+/**
+ * Bài này là so sánh chuỗi nào dài nhất chưa cần dùng hàm reduce
+ * for lặp các phần tử rồi so sánh xem length thằng nào dài nhất là xong
+ */

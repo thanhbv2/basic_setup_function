@@ -9,3 +9,7 @@ let x = arr.sort(function (a, b) {
 
 console.log(x)
 
+/**
+ * Viết bằng thuật toán chứ không phải dùng hàm có sẵn.
+ * 
+ */

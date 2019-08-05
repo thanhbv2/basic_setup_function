@@ -1,3 +1,10 @@
+/**
+ * Bài này làm được nhưng nhớ format code: control + shift + f
+ * @param {*} str 
+ * @param {*} letter 
+ */
+
+
 function demChu(str, letter) 
 {
  var letter_Count = 0;
@@ -11,4 +18,4 @@ function demChu(str, letter)
   return letter_Count;
 }
 
-console.log(demChu('w3resource.com', 'o'));
+console.log(demChu('w3resourooce.com', 'o'));

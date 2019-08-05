@@ -1,3 +1,10 @@
+/**
+ * Bài này random ra 1 chuỗi có độ dài bằng số nhập vào. Số nhập vào thì đặt tên cho đúng kiểu 
+ * để tên biến là list1 bố ai hiểu chuyển tên biến là num 
+ * @param {*} list1 
+ */
+
+
 function list(list1){
     let str = ''
     let str1='QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm1234567890'

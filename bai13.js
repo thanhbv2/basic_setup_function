@@ -19,3 +19,5 @@ console.log(uocSo(20))
  * bài này k bảo console.log ra
  * lưu giá trị vào 1 mảng các ước
  */
+
+ 
